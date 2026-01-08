@@ -1,4 +1,4 @@
-\# Curso Git e Github 2026
+# Curso Git e Github 2026
 
 Um curso direcionado aos alunos que buscam aprender mais sobre versionamento de código.
 
