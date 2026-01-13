@@ -2,7 +2,9 @@
 
 Um curso direcionado aos alunos que buscam aprender mais sobre versionamento de código.
 
-Alem disso, vamos trabalhar com gitflow ao final do curso
+Alem disso, vamos trabalhar com gitflow ao final do curso. Segue o link:
+
+[Curso_Git_2025](https://youtbe.com/teomewhy)
 
 
 
